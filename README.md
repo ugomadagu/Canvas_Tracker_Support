@@ -1,5 +1,5 @@
 # Canvas Tracker
-Cavas Tracker is an app that tracks the time you spend making artwork and acs as your personal gallery.
+Cavas Tracker is an app that tracks the time you spend making artwork and acts as your personal gallery.
 
 
 ## App Store Links
