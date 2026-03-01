@@ -1,5 +1,3 @@
-# Canvas Tracker
-
 ## App Store Links
 [IOS](https://apps.apple.com/us/app/canvas-tracker/id6757170469)
 
