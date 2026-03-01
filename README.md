@@ -1,11 +1,9 @@
-## App Store Links
-[IOS](https://apps.apple.com/us/app/canvas-tracker/id6757170469)
-
-[Android](https://play.google.com/store/apps/details?id=com.ugomadagu.canvastrainer)
-
-## About
-
+# Canvas Tracker
 Cavas Tracker is an app that tracks the time you spend making artwork and acs as your personal gallery.
+
+
+## App Store Links
+[IOS](https://apps.apple.com/us/app/canvas-tracker/id6757170469) | [Android](https://play.google.com/store/apps/details?id=com.ugomadagu.canvastrainer)
 
 
 ## Privacy
